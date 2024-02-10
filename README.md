@@ -11,7 +11,7 @@ This page will guide different steps required to setup a Jenkins and its pre-req
 
 ------ 
 
-# Git 
+# Git and git are two different things
 
 ## Installation 
 - sudo apt-get update
